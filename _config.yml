@@ -21,16 +21,16 @@
 title: SK Web Developer Projects portfolio
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Weclome to SK web Developer projects portfolio website where you will find a list of
+  projects that I have worked on, and the projects which are work on progress.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://skatende-technieknowhow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
