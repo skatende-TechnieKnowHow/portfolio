@@ -1,9 +1,11 @@
 ---
 layout: default
-title:  "Vanilla Javascript"
-date:   2022-05-13 17:58:32 -0400
-categories: jekyll update
+title:  "A Web Developer's road to resilency"
+date:   2022-05-14 17:34:32 -0400
+categories: javascript
 ---
 
-This blog post explains the process that I went through to learn web development 
-starting with  Vanilla Javascript.
+# A road to resilency for a Web Developer to a Full-Stack Engineer continues
+
+This blog post explains the process that I went through to become and educate myself the skills of web development, and enventually transition into a Full-Stack Engineer or Software Engineer.
+## Starting with Vanilla Javascript.
