@@ -9,7 +9,7 @@ permalink: /about/
 
 I am a Web Developer with completed and work in progress projects which are showcased on this website.
 
-This page demostrates my skills in HTML and CSS skills in Web Development.
+This page demostrates my skills in Javascript, HTML, and CSS in Web Development.
 
 I am current taking self-directed Web programming tutorials.
 
