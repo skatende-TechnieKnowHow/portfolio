@@ -7,10 +7,10 @@ permalink: /about/
 
 ... Hi, my name is SK
 
-I am a Web Developer with completed and work in progress projects which are showcased on this website.
+I'm interested working with the web programming languages used in both Front-end and Back-end tech stack.
 
-This page demostrates my skills in Javascript, HTML, and CSS in Web Development.
+I am a Web Developer with completed work as well as work in progress projects which are showcased on this website.
 
-I am current taking self-directed Web programming tutorials.
+This page demostrates my skills in Web Development technology stack in Javascript, HTML, and CSS.
 
-I'm teaching myself the current programming languages used in both Front-end and Back-end web development.
+I have taken self-directed Web programming tutorials from different online sources, and I share my experience in the Blog menu side.
