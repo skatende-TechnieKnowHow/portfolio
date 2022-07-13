@@ -1,16 +1,23 @@
 ---
-layout: default
+layout: single
 title: About
 permalink: /about/
+header:
+  overlay_image:  /assets/images/universe.png
+
+classes:
+    - landing
+    - dark-theme
+    - wide
 ---
-# This is the current about page !
+# Knowing me is knowing you !
 
-... Hi, my name is SK
+... Hi, my name is Stanley Katende
 
-I'm interested working with the web programming languages used in both Front-end and Back-end tech stack.
+I’m interested working with the web programming languages used in both front-end and back-end technology stack.
 
-I am a Web Developer with completed work as well as work in progress projects which are showcased on this website.
+I am a Web Developer in progress and upskilling myself with a new set of skills in demand within the software development field.  I have worked on multiple projects, and some which are already posted on this web site, and many more are just work-in-progress.
 
-This page demostrates my skills in Web Development technology stack in Javascript, HTML, and CSS.
+This website has projects which demonstrates my skills in web development technology stack which includes HTML, JavaScript, and CSS.
 
-I have taken self-directed Web programming tutorials from different online sources, and I share my experience in the Blog menu side.
+I have taken self-directed web programming tutorials from different online sources, and I will share my experience on the blog page.

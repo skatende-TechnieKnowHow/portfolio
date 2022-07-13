@@ -1,14 +1,20 @@
 ---
-layout: default
+layout: single
 title: Skills
 permalink: /skills/
+header:
+  overlay_image:  /assets/images/universe.png
+classes:
+    - landing
+    - dark-theme
+    - wide
 ---
 
 ## Technical skills
 
 **Languages: (WIP)**
 
-| JavaScript | TypeScript | Java |
+| JavaScript | Java | TypeScript -WIP| 
 
 **Fameworks and Libraries: (WIP)**
 

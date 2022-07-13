@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: single
 title: Contact
 permalink: /contact/
+header:
+  overlay_image:  /assets/images/universe.png
 
 ---
-## This is a contact page.
+## This contact page is under construction, please come back later.
