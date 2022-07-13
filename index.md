@@ -25,32 +25,32 @@ feature_row:
       alt: "html image"
       title: "HTML"
       excerpt: "HTML is a content layer which holds the structure of the web website, the pages, and it adds semantics to the content displayed by different browsers."
-      url: http://127.0.0.1:4000/portfolio/projects/
+      url: /projects/
     - image_path: /assets/images/css3.png
       alt: "css image"
       title: "CSS"
       excerpt: "CSS is the presentation layer which has rules used by classes and selectors to determine how the HTML content will be displayed on different screen sizes."
-      url: http://127.0.0.1:4000/portfolio/projects/
+      url: /projects/
     - image_path: /assets/images/javascript.png
       alt: "javascript image"
       title: "JavaScript"
       excerpt: "JavaScript is the behavior layer used to change how different parts of the website will behave, and it adds interactivity to the web pages."
-      url: http://127.0.0.1:4000/portfolio/projects/
+      url: /projects/
     - image_path: /assets/images/reactjimage.png
       alt: "reactjs image"
       title: "ReactJS"
       excerpt: "React is an open-source front-end JavaScript library used build user interfaces(UI) which can be class based or function based components."
-      url: http://127.0.0.1:4000/portfolio/projects/
+      url: /projects/
     - image_path: /assets/images/nodejs.png
       alt: "nodejs image"
       title: "NodeJS"
       excerpt: "NodeJS or node.js is an open-source cross-platform, back-end JavaScript runtime environment that  runs on the V8 engine and executes JavaScript code outside the web browser."
-      url: http://127.0.0.1:4000/portfolio/projects/
+      url: /projects/
     - image_path: /assets/images/wordpress.png
       alt: "wordpresss image"
       title: "WordPress and Gatsby CMS"
       excerpt: "WordPress is a popular open-source content management system (CMS) written in PHP, and used on many websites. Gatsby is a React-based open source framework with performance, scalability and security built-in."
-      url: http://127.0.0.1:4000/portfolio/projects/
+      url: /projects/
 ---
 
 <h2>{{ "Stanley Katende - Web Developer" }}<h2>
