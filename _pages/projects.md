@@ -17,7 +17,7 @@ classes:
 
 * [WordPress CMS Project](https://umucca.org/ "UMUCCA"){:target="_blank"}
 
-HTML and CSS Projects (The following Capstone Projects demonstrates my skills in web development using both HTML and CSS.)
+HTML CSS, and JavaScript Projects
 
 * [Arts and Crafts project](https://skatende-technieknowhow-artsandcrafts.netlify.app/){:target="_blank"}
 * [Excursion-HTML-CSS project](https://skatende-technieknowhow-excursion-html-css-project.netlify.app/){:target="_blank"}
