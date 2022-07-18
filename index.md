@@ -39,7 +39,7 @@ feature_row:
     - image_path: /assets/images/reactjimage.png
       alt: "reactjs image"
       title: "ReactJS"
-      excerpt: "React is an open-source front-end JavaScript library used build user interfaces(UI) which can be class based or function based components."
+      excerpt: "React is an open-source front-end JavaScript library used to build user interfaces(UI) which can be class based or function based components."
       url: /projects/
     - image_path: /assets/images/nodejs.png
       alt: "nodejs image"

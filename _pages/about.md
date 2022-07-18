@@ -10,7 +10,7 @@ classes:
     - dark-theme
     - wide
 ---
-# Knowing me is knowing you !
+# Knowing me is knowing you, Ahaaa ...!
 
 ... Hi, my name is Stanley Katende
 
